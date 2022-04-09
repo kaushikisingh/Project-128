@@ -1,0 +1,25 @@
+.heading{
+    font-size: 20px;
+    color: blanchedalmond;
+    margin-top: 0px;
+    width: 100%;
+    font-weight: bold;
+}
+
+img{
+    width: 150px;
+    height: 150px;
+    border-radius: 20px;
+}
+
+body{
+    background-position: center;
+    background-size: cover;
+}
+
+canvas
+{
+    border: 5px solid  lightcoral;
+    border-radius: 30px;
+    margin-top: 40px;
+}
